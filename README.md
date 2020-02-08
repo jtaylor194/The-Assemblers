@@ -5,4 +5,4 @@ Brandon Moseley
 D'Anne Anthony 
 Natasha Millings
 Josh Taylor
-John Author 
+John Arthur
