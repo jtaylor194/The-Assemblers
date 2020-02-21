@@ -1,4 +1,4 @@
-@arithmetic1
+@arithmetic0
 .section .data
 .section .text
 .globl _start
