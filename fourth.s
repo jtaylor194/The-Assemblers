@@ -6,7 +6,7 @@
 	@  y = 1;
 .section .data
 x: .word 0 @32-bit signed integer, you can also use int directive if of .word directive
-y: .word 0 @32-bit signed integer
+y: .word 5 @32-bit signed integer
 .section .text
 .globl _start
 _start:
